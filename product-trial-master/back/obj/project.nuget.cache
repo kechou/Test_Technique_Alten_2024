@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkZgW3VxjQM=",
+  "dgSpecHash": "JQjsMmXXhlE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kech\\Desktop\\Test technique Alten\\product-trial-master\\back\\back.csproj",
+  "projectFilePath": "C:\\Users\\Kech\\Desktop\\Test technique Alten\\Test_Technique_Alten_2024\\product-trial-master\\back\\back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kech\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Kech\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

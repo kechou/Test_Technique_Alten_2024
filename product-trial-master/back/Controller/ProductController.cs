@@ -90,7 +90,7 @@ public class ProductController : ControllerBase
     //PATCH{id}	- Mise à jour d'un produit
     //-----------------------------------
     [HttpPatch("{id}")]
-	public IActionResult UpdateProduct(int id, ProductPatch updatedProduct)
+	public IActionResult UpdateProduct(int id, Product updatedProduct)
 	{
         //Liste Locale
         //------------
